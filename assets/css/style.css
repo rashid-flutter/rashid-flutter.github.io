@@ -130,7 +130,7 @@ html {
 
 body {
     background: var(--smoky-black);
-    background-image: url(/assets/images/wallpaper.jpg);
+    /* background-image: url(/assets/images/wallpaper.jpg); */
 }
 
 /*-----------------------------------*\
