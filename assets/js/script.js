@@ -158,7 +158,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
   });
 }
 function openPDF() {
-  window.open('./assets/doc/RashidV_Resume.pdf', '_blank');
+  window.open('./assets/doc/Document from Rashid.V.pdf', '_blank');
 }
 
 
